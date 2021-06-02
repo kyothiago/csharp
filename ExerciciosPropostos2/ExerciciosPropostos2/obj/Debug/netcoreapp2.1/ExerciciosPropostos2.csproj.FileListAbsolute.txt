@@ -1,0 +1,11 @@
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\netcoreapp2.1\ExerciciosPropostos2.deps.json
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\netcoreapp2.1\ExerciciosPropostos2.runtimeconfig.json
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\netcoreapp2.1\ExerciciosPropostos2.runtimeconfig.dev.json
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\netcoreapp2.1\ExerciciosPropostos2.dll
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\netcoreapp2.1\ExerciciosPropostos2.pdb
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\netcoreapp2.1\ExerciciosPropostos2.csprojAssemblyReference.cache
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\netcoreapp2.1\ExerciciosPropostos2.csproj.CoreCompileInputs.cache
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\netcoreapp2.1\ExerciciosPropostos2.AssemblyInfoInputs.cache
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\netcoreapp2.1\ExerciciosPropostos2.AssemblyInfo.cs
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\netcoreapp2.1\ExerciciosPropostos2.dll
+C:\Users\tober\source\repos\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\netcoreapp2.1\ExerciciosPropostos2.pdb

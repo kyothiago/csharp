@@ -1,0 +1,11 @@
+D:\wsvs2017\Exercicio2\Exercicio2\obj\Debug\netcoreapp2.1\Exercicio2.csprojAssemblyReference.cache
+D:\wsvs2017\Exercicio2\Exercicio2\obj\Debug\netcoreapp2.1\Exercicio2.csproj.CoreCompileInputs.cache
+D:\wsvs2017\Exercicio2\Exercicio2\obj\Debug\netcoreapp2.1\Exercicio2.AssemblyInfoInputs.cache
+D:\wsvs2017\Exercicio2\Exercicio2\obj\Debug\netcoreapp2.1\Exercicio2.AssemblyInfo.cs
+D:\wsvs2017\Exercicio2\Exercicio2\bin\Debug\netcoreapp2.1\Exercicio2.deps.json
+D:\wsvs2017\Exercicio2\Exercicio2\bin\Debug\netcoreapp2.1\Exercicio2.runtimeconfig.json
+D:\wsvs2017\Exercicio2\Exercicio2\bin\Debug\netcoreapp2.1\Exercicio2.runtimeconfig.dev.json
+D:\wsvs2017\Exercicio2\Exercicio2\bin\Debug\netcoreapp2.1\Exercicio2.dll
+D:\wsvs2017\Exercicio2\Exercicio2\bin\Debug\netcoreapp2.1\Exercicio2.pdb
+D:\wsvs2017\Exercicio2\Exercicio2\obj\Debug\netcoreapp2.1\Exercicio2.dll
+D:\wsvs2017\Exercicio2\Exercicio2\obj\Debug\netcoreapp2.1\Exercicio2.pdb

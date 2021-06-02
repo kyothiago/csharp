@@ -1,0 +1,10 @@
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.deps.json
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.runtimeconfig.json
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.runtimeconfig.dev.json
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.dll
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\netcoreapp2.1\ExerciciosPropostos1.pdb
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.csproj.CoreCompileInputs.cache
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.AssemblyInfoInputs.cache
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.AssemblyInfo.cs
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.dll
+D:\wsvs2017\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\netcoreapp2.1\ExerciciosPropostos1.pdb

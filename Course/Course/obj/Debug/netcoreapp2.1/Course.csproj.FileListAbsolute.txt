@@ -1,0 +1,11 @@
+D:\wsvs2017\Course\Course\obj\Debug\netcoreapp2.1\Course.csprojAssemblyReference.cache
+D:\wsvs2017\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+D:\wsvs2017\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+D:\wsvs2017\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+D:\wsvs2017\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+D:\wsvs2017\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+D:\wsvs2017\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+D:\wsvs2017\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+D:\wsvs2017\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+D:\wsvs2017\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+D:\wsvs2017\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb
