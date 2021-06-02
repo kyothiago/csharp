@@ -1,0 +1,11 @@
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\bin\Debug\netcoreapp2.1\ExerciciosPropostos4.deps.json
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\bin\Debug\netcoreapp2.1\ExerciciosPropostos4.runtimeconfig.json
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\bin\Debug\netcoreapp2.1\ExerciciosPropostos4.runtimeconfig.dev.json
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\bin\Debug\netcoreapp2.1\ExerciciosPropostos4.dll
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\bin\Debug\netcoreapp2.1\ExerciciosPropostos4.pdb
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\obj\Debug\netcoreapp2.1\ExerciciosPropostos4.csprojAssemblyReference.cache
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\obj\Debug\netcoreapp2.1\ExerciciosPropostos4.csproj.CoreCompileInputs.cache
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\obj\Debug\netcoreapp2.1\ExerciciosPropostos4.AssemblyInfoInputs.cache
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\obj\Debug\netcoreapp2.1\ExerciciosPropostos4.AssemblyInfo.cs
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\obj\Debug\netcoreapp2.1\ExerciciosPropostos4.dll
+D:\wsvs2017\ExerciciosPropostos4\ExerciciosPropostos4\obj\Debug\netcoreapp2.1\ExerciciosPropostos4.pdb
