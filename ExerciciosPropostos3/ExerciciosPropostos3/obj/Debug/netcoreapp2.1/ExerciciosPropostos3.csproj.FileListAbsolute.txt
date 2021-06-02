@@ -1,0 +1,11 @@
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\netcoreapp2.1\ExerciciosPropostos3.csprojAssemblyReference.cache
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\netcoreapp2.1\ExerciciosPropostos3.csproj.CoreCompileInputs.cache
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\netcoreapp2.1\ExerciciosPropostos3.AssemblyInfoInputs.cache
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\netcoreapp2.1\ExerciciosPropostos3.AssemblyInfo.cs
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\netcoreapp2.1\ExerciciosPropostos3.deps.json
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\netcoreapp2.1\ExerciciosPropostos3.runtimeconfig.json
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\netcoreapp2.1\ExerciciosPropostos3.runtimeconfig.dev.json
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\netcoreapp2.1\ExerciciosPropostos3.dll
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\bin\Debug\netcoreapp2.1\ExerciciosPropostos3.pdb
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\netcoreapp2.1\ExerciciosPropostos3.dll
+D:\wsvs2017\ExerciciosPropostos3\ExerciciosPropostos3\obj\Debug\netcoreapp2.1\ExerciciosPropostos3.pdb
